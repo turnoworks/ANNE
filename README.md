@@ -1,2 +1,1 @@
-# ANNE
-Lightweight Artificial Neural Network Engine (ANNE)
+# ANNE (Artificial Neural Network Engine)
